@@ -1,2 +1,3 @@
+# Preserve executable wrapper line endings across Windows and Unix.
 /mvnw text eol=lf
 *.cmd text eol=crlf
