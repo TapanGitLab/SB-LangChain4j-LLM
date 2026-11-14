@@ -1,3 +1,3 @@
-# Preserve executable wrapper line endings across Windows and Unix.
+# Use the right line endings so the Maven scripts work on Windows and Unix.
 /mvnw text eol=lf
 *.cmd text eol=crlf
